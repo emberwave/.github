@@ -4,4 +4,6 @@
 
 <h1 align="center">emberwave</h1>
 
+info > https://emberwave.github.io/info/
+
 created by frog1123
